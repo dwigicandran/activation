@@ -1,0 +1,116 @@
+2021-10-13 11:47:04.920  INFO 1236 --- [restartedMain] com.bsms.ActivationApplication           : Starting ActivationApplication on ZenbookUX with PID 1236 (C:\Users\Chand\Downloads\Compressed\activation\target\classes started by Chand in C:\Users\Chand\Downloads\Compressed\activation)
+2021-10-13 11:47:04.922  INFO 1236 --- [restartedMain] com.bsms.ActivationApplication           : No active profile set, falling back to default profiles: default
+2021-10-13 11:47:04.994  INFO 1236 --- [restartedMain] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@63e5eb68: startup date [Wed Oct 13 11:47:04 ICT 2021]; root of context hierarchy
+2021-10-13 11:47:06.408  INFO 1236 --- [restartedMain] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2021-10-13 11:47:07.192  INFO 1236 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8191 (http)
+2021-10-13 11:47:07.208  INFO 1236 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2021-10-13 11:47:07.210  INFO 1236 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.14
+2021-10-13 11:47:07.347  INFO 1236 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-10-13 11:47:07.347  INFO 1236 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2353 ms
+2021-10-13 11:47:07.584  INFO 1236 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-10-13 11:47:07.585  INFO 1236 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2021-10-13 11:47:07.585  INFO 1236 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'com.bsms.config.JerseyConfig' to [/*]
+2021-10-13 11:47:07.633  INFO 1236 --- [restartedMain] com.bsms.cons.MbApiConstant              :   H2HRemConstant Load
+2021-10-13 11:47:07.634  INFO 1236 --- [restartedMain] com.bsms.cons.MbApiConstant              :   Load Constant from properties
+2021-10-13 11:47:07.634  INFO 1236 --- [restartedMain] com.bsms.cons.MbApiConstant              :     JWT_EXPIRATION_TIME=54000000
+2021-10-13 11:47:07.634  INFO 1236 --- [restartedMain] com.bsms.cons.MbApiConstant              :     VERIFY_TOKEN_EXPIRATION_TIME=108000000
+2021-10-13 11:47:07.635  INFO 1236 --- [restartedMain] com.bsms.cons.MbApiConstant              :     JWT_SECRET_KEY=R4H4514
+2021-10-13 11:47:07.924  INFO 1236 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-10-13 11:47:07.968  INFO 1236 --- [restartedMain] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2021-10-13 11:47:08.037  INFO 1236 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8191 (http)
+2021-10-13 11:47:08.042  INFO 1236 --- [restartedMain] com.bsms.ActivationApplication           : Started ActivationApplication in 3.583 seconds (JVM running for 4.38)
+2021-10-13 11:48:26.882  INFO 9660 --- [restartedMain] com.bsms.ActivationApplication           : Starting ActivationApplication on ZenbookUX with PID 9660 (C:\Users\Chand\Downloads\Compressed\activation\target\classes started by Chand in C:\Users\Chand\Downloads\Compressed\activation)
+2021-10-13 11:48:26.884  INFO 9660 --- [restartedMain] com.bsms.ActivationApplication           : No active profile set, falling back to default profiles: default
+2021-10-13 11:48:26.957  INFO 9660 --- [restartedMain] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@1fadc1d1: startup date [Wed Oct 13 11:48:26 ICT 2021]; root of context hierarchy
+2021-10-13 11:48:28.241  INFO 9660 --- [restartedMain] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2021-10-13 11:48:29.012  INFO 9660 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8191 (http)
+2021-10-13 11:48:29.028  INFO 9660 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2021-10-13 11:48:29.029  INFO 9660 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.14
+2021-10-13 11:48:29.197  INFO 9660 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-10-13 11:48:29.197  INFO 9660 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2240 ms
+2021-10-13 11:48:29.251  INFO 9660 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-10-13 11:48:29.342  INFO 9660 --- [restartedMain] com.bsms.cons.MbApiConstant              :   H2HRemConstant Load
+2021-10-13 11:48:29.342  INFO 9660 --- [restartedMain] com.bsms.cons.MbApiConstant              :   Load Constant from properties
+2021-10-13 11:48:29.343  INFO 9660 --- [restartedMain] com.bsms.cons.MbApiConstant              :     JWT_EXPIRATION_TIME=54000000
+2021-10-13 11:48:29.343  INFO 9660 --- [restartedMain] com.bsms.cons.MbApiConstant              :     VERIFY_TOKEN_EXPIRATION_TIME=108000000
+2021-10-13 11:48:29.343  INFO 9660 --- [restartedMain] com.bsms.cons.MbApiConstant              :     JWT_SECRET_KEY=R4H4514
+2021-10-13 11:48:29.628  INFO 9660 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-10-13 11:48:29.663  INFO 9660 --- [restartedMain] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2021-10-13 11:48:29.718  INFO 9660 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8191 (http)
+2021-10-13 11:48:29.723  INFO 9660 --- [restartedMain] com.bsms.ActivationApplication           : Started ActivationApplication in 3.322 seconds (JVM running for 4.094)
+2021-10-13 11:48:35.516  INFO 660 --- [restartedMain] com.bsms.ActivationApplication           : Starting ActivationApplication on ZenbookUX with PID 660 (C:\Users\Chand\Downloads\Compressed\activation\target\classes started by Chand in C:\Users\Chand\Downloads\Compressed\activation)
+2021-10-13 11:48:35.517  INFO 660 --- [restartedMain] com.bsms.ActivationApplication           : No active profile set, falling back to default profiles: default
+2021-10-13 11:48:35.587  INFO 660 --- [restartedMain] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@28f3ebbe: startup date [Wed Oct 13 11:48:35 ICT 2021]; root of context hierarchy
+2021-10-13 11:48:36.874  INFO 660 --- [restartedMain] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2021-10-13 11:48:37.673  INFO 660 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8191 (http)
+2021-10-13 11:48:37.690  INFO 660 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2021-10-13 11:48:37.692  INFO 660 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.14
+2021-10-13 11:48:37.843  INFO 660 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-10-13 11:48:37.844  INFO 660 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2257 ms
+2021-10-13 11:48:37.899  INFO 660 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-10-13 11:48:37.985  INFO 660 --- [restartedMain] com.bsms.cons.MbApiConstant              :   H2HRemConstant Load
+2021-10-13 11:48:37.986  INFO 660 --- [restartedMain] com.bsms.cons.MbApiConstant              :   Load Constant from properties
+2021-10-13 11:48:37.986  INFO 660 --- [restartedMain] com.bsms.cons.MbApiConstant              :     JWT_EXPIRATION_TIME=54000000
+2021-10-13 11:48:37.986  INFO 660 --- [restartedMain] com.bsms.cons.MbApiConstant              :     VERIFY_TOKEN_EXPIRATION_TIME=108000000
+2021-10-13 11:48:37.987  INFO 660 --- [restartedMain] com.bsms.cons.MbApiConstant              :     JWT_SECRET_KEY=R4H4514
+2021-10-13 11:48:38.280  INFO 660 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-10-13 11:48:38.309  INFO 660 --- [restartedMain] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2021-10-13 11:48:38.366  INFO 660 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8191 (http)
+2021-10-13 11:48:38.371  INFO 660 --- [restartedMain] com.bsms.ActivationApplication           : Started ActivationApplication in 3.327 seconds (JVM running for 4.125)
+2021-10-13 12:00:57.561  INFO 9632 --- [restartedMain] com.bsms.ActivationApplication           : Starting ActivationApplication on ZenbookUX with PID 9632 (C:\Users\Chand\Downloads\Compressed\activation\target\classes started by Chand in C:\Users\Chand\Downloads\Compressed\activation)
+2021-10-13 12:00:57.562  INFO 9632 --- [restartedMain] com.bsms.ActivationApplication           : No active profile set, falling back to default profiles: default
+2021-10-13 12:00:57.638  INFO 9632 --- [restartedMain] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@1fadc1d1: startup date [Wed Oct 13 12:00:57 ICT 2021]; root of context hierarchy
+2021-10-13 12:00:58.963  INFO 9632 --- [restartedMain] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2021-10-13 12:00:59.746  INFO 9632 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8191 (http)
+2021-10-13 12:00:59.761  INFO 9632 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2021-10-13 12:00:59.763  INFO 9632 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.14
+2021-10-13 12:00:59.916  INFO 9632 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-10-13 12:00:59.916  INFO 9632 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2278 ms
+2021-10-13 12:00:59.978  INFO 9632 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-10-13 12:01:00.085  INFO 9632 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :   H2HRemConstant Load
+2021-10-13 12:01:00.085  INFO 9632 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :   Load Constant from properties
+2021-10-13 12:01:00.086  INFO 9632 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :     JWT_EXPIRATION_TIME=54000000
+2021-10-13 12:01:00.086  INFO 9632 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :     VERIFY_TOKEN_EXPIRATION_TIME=108000000
+2021-10-13 12:01:00.086  INFO 9632 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :     JWT_SECRET_KEY=R4H4514
+2021-10-13 12:01:00.373  INFO 9632 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-10-13 12:01:00.410  INFO 9632 --- [restartedMain] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2021-10-13 12:01:00.472  INFO 9632 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8191 (http)
+2021-10-13 12:01:00.477  INFO 9632 --- [restartedMain] com.bsms.ActivationApplication           : Started ActivationApplication in 3.388 seconds (JVM running for 4.166)
+2021-10-13 12:07:40.670  INFO 14064 --- [restartedMain] com.bsms.ActivationApplication           : Starting ActivationApplication on ZenbookUX with PID 14064 (C:\Users\Chand\Downloads\Compressed\activation\target\classes started by Chand in C:\Users\Chand\Downloads\Compressed\activation)
+2021-10-13 12:07:40.672  INFO 14064 --- [restartedMain] com.bsms.ActivationApplication           : No active profile set, falling back to default profiles: default
+2021-10-13 12:07:40.746  INFO 14064 --- [restartedMain] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@28f3ebbe: startup date [Wed Oct 13 12:07:40 ICT 2021]; root of context hierarchy
+2021-10-13 12:07:41.987  INFO 14064 --- [restartedMain] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2021-10-13 12:07:42.862  INFO 14064 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8191 (http)
+2021-10-13 12:07:42.876  INFO 14064 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2021-10-13 12:07:42.877  INFO 14064 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.14
+2021-10-13 12:07:43.017  INFO 14064 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-10-13 12:07:43.017  INFO 14064 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2271 ms
+2021-10-13 12:07:43.079  INFO 14064 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-10-13 12:07:43.191  INFO 14064 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :   H2HRemConstant Load
+2021-10-13 12:07:43.191  INFO 14064 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :   Load Constant from properties
+2021-10-13 12:07:43.191  INFO 14064 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :     JWT_EXPIRATION_TIME=54000000
+2021-10-13 12:07:43.192  INFO 14064 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :     VERIFY_TOKEN_EXPIRATION_TIME=108000000
+2021-10-13 12:07:43.192  INFO 14064 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :     JWT_SECRET_KEY=R4H4514
+2021-10-13 12:07:43.504  INFO 14064 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-10-13 12:07:43.535  INFO 14064 --- [restartedMain] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2021-10-13 12:07:43.590  INFO 14064 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8191 (http)
+2021-10-13 12:07:43.594  INFO 14064 --- [restartedMain] com.bsms.ActivationApplication           : Started ActivationApplication in 3.405 seconds (JVM running for 4.243)
+2021-10-13 12:12:33.761  INFO 7116 --- [restartedMain] com.bsms.ActivationApplication           : Starting ActivationApplication on ZenbookUX with PID 7116 (C:\Users\Chand\Downloads\Compressed\activation\target\classes started by Chand in C:\Users\Chand\Downloads\Compressed\activation)
+2021-10-13 12:12:33.763  INFO 7116 --- [restartedMain] com.bsms.ActivationApplication           : No active profile set, falling back to default profiles: default
+2021-10-13 12:12:33.828  INFO 7116 --- [restartedMain] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@43b133ad: startup date [Wed Oct 13 12:12:33 ICT 2021]; root of context hierarchy
+2021-10-13 12:12:35.084  INFO 7116 --- [restartedMain] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2021-10-13 12:12:35.876  INFO 7116 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8191 (http)
+2021-10-13 12:12:35.893  INFO 7116 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2021-10-13 12:12:35.895  INFO 7116 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.14
+2021-10-13 12:12:36.053  INFO 7116 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-10-13 12:12:36.053  INFO 7116 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2225 ms
+2021-10-13 12:12:36.117  INFO 7116 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-10-13 12:12:36.213  INFO 7116 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :   H2HRemConstant Load
+2021-10-13 12:12:36.213  INFO 7116 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :   Load Constant from properties
+2021-10-13 12:12:36.213  INFO 7116 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :     JWT_EXPIRATION_TIME=54000000
+2021-10-13 12:12:36.213  INFO 7116 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :     VERIFY_TOKEN_EXPIRATION_TIME=108000000
+2021-10-13 12:12:36.214  INFO 7116 --- [restartedMain] com.bsms.cons.ActivationApiConstant      :     JWT_SECRET_KEY=R4H4514
+2021-10-13 12:12:36.515  INFO 7116 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-10-13 12:12:36.550  INFO 7116 --- [restartedMain] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2021-10-13 12:12:36.606  INFO 7116 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8191 (http)
+2021-10-13 12:12:36.611  INFO 7116 --- [restartedMain] com.bsms.ActivationApplication           : Started ActivationApplication in 3.341 seconds (JVM running for 4.098)
