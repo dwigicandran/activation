@@ -34,7 +34,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-@Service("Activation")
+@Service("activation")
 @Transactional
 public class MbActivationServiceImpl extends MbBaseServiceImpl implements MbService {
 
